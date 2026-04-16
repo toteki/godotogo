@@ -1,0 +1,2 @@
+# godotogo
+Accumulating Godot Capabilities
